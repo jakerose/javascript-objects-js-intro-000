@@ -6,6 +6,6 @@ function updatePlaylist(playlist, artistName, songTitle) {
 }
 
 function removeFromPlaylist(playlist, artistName) {
-delete playlist.NSYNC
+delete playlist.artistName
 artistName;
 }
