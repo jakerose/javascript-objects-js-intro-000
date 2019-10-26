@@ -1,4 +1,4 @@
-var playlist = {NSYNC: "Bye bye bye", MyBloodyValentine: "Sometimes"};
+var playlist = {NSYNC: "Bye bye bye"};
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
